@@ -2,7 +2,7 @@
 #### Fullstack Developer
 I'm Irfan from Turkey , and I do Design Web Sites and Fullstack Development. I really enjoy learning languages and frameworks like React and Vue.js , as well as work in Java. I also enjoy SQL.
 
-Skills:  ⚛ React  💻 HTML, CSS, JS  💥 Java 
+Skills:  ⚛ React  💻 HTML, CSS, JS  💥 Java , Node.JS
 
 - 🔭 I’m currently working on React 
 - 🌱 I’m currently learning React , Vue.js 
