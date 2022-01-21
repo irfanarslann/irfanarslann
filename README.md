@@ -5,7 +5,6 @@ I'm Irfan from Turkey , and I do Design Web Sites and Fullstack Development. I r
 Skills:  ⚛ React  💻 HTML, CSS, JS  💥 Java , Node.JS
 
 - 🔭 I’m currently working on React 
-- 🌱 I’m currently learning React , Vue.js 
 - 😄 Pronouns: He/His 
 - 📫 How to reach me:   
 
