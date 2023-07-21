@@ -1,8 +1,8 @@
 ### Hi there 👋,  I Am Irfan Arslan!
 #### Fullstack Developer
-I'm Irfan from Turkey , and I do Design Web Sites and Fullstack Development. I really enjoy learning languages and frameworks like React and Vue.js , as well as work in C# .Net Core . I also enjoy SQL.
+I'm Irfan from Turkey , and I do Backend Development. I really enjoy learning languages and frameworks like React , as well as work in C# .Net Core . I also enjoy SQL.
 
-Skills:  ⚛ React  💻 HTML, CSS, JS  💥 C# .Net  , Node.JS
+Skills:  ⚛ React  💻 HTML, CSS, JS  💥 C# .Net Core , Node.JS
 
 - 🔭 I’m currently working on React and .Net Core
 - 😄 Pronouns: He/His 
